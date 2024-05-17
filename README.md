@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aprajita Pandey</h1>
-<h3 align="center">Interested in AIML, IOT and the world of embedded systems.</h3>
+<h3 align="center">Specialising in ML and embedded systems.</h3>
 <img align="center" alt="Coding" width="1000" src="https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
 
 
