@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aprajita Pandey</h1>
-<h3 align="center">Specialising in ML and embedded systems.</h3>
+<h3 align="center">I'm interested in Development and Competitive Programming.</h3>
 <img align="center" alt="Coding" width="800" src="https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
 
 
