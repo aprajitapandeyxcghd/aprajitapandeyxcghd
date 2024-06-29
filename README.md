@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **aprajitapandey2205@gmail.com**
 
