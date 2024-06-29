@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aprajita Pandey</h1>
 <h3 align="center">Specialising in ML and embedded systems.</h3>
-<img align="center" alt="Coding" width="1000" src="https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
+<img align="center" alt="Coding" width="800" src="https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprajitapandeyxcghd&label=Profile%20views&color=0e75b6&style=flat" alt="aprajitapandeyxcghd" /> </p>
