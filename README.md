@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@aprajitap03" target="blank"><img src="https://img.shields.io/twitter/follow/@aprajitap03?logo=twitter&style=for-the-badge" alt="@aprajitap03" /></a> </p>
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
