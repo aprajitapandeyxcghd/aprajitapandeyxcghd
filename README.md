@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aprajitap03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aprajitap03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@aprajitapandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@aprajitapandey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aprajita-pandey-a4396623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@aprajitapandey" height="30" width="40" /></a>
 <a href="https://kaggle.com/@aprajitapandey028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@aprajitapandey028" height="30" width="40" /></a>
 <a href="https://hashnode.com/colazione" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="colazione" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/colazione" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="colazione" height="30" width="40" /></a>
