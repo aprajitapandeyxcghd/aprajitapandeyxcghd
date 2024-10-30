@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aprajita Pandey</h1>
-<h3 align="center">I'm interested in Development and Competitive Programming.</h3>
+<h3 align="center">I'm interested in Software Development and Competitive Programming.</h3>
 
 
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/@aprajitap03" target="blank"><img src="https://img.shields.io/twitter/follow/@aprajitap03?logo=twitter&style=for-the-badge" alt="@aprajitap03" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Software Development Projects**
 
 - 📫 How to reach me **aprajitapandey2205@gmail.com**
 
