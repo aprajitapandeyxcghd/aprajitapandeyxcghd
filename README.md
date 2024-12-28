@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Software Development Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 How to reach me **aprajitapandey2205@gmail.com**
 
