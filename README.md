@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aprajita Pandey</h1>
 <h3 align="center">I'm interested in Software Development and Competitive Programming.</h3>
 
-- 🔭 I’m currently working on **Java Springboot**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 👯 I’m looking to collaborate on **Full Stack and AIML Projects**
 
